@@ -3,7 +3,7 @@ from openai import OpenAI
 # get local file cotent, for example: 2024/02-27
 
 
-path = "2024/03-01/"
+path = "2024/02-26/"
 material_file = "english.md"
 material_path = path + material_file
 material_content = ""
@@ -23,4 +23,5 @@ response = client.audio.speech.create(
     response_format="flac"
 )
 
-response.write_to_file("{}material.mp3".format(path))
+
+response.write_to_file("{}material.flac".format(path))

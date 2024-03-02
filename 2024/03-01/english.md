@@ -1,1 +1,10 @@
-I'm glad to hear that you've found a tool suitable for practicing your English pronunciation. Using OpenAI's TTS (Text-to-Speech) API is indeed a great choice, as it can provide pronunciations that are close to natural speech, helping you to better understand and mimic English pronunciation. If you encounter any questions about English pronunciation during your practice, or if you're seeking more advice on how to improve your pronunciation, please feel free to ask me. I'm here to help you enhance your English pronunciation skills, whether it's the pronunciation of words, intonation, rhythm, or the coherence of speech.
+Due to the frustration[^1] of not[^2] having audio materials for[^3] practicing English, I explored several different solutions for generating speech from text[^4], including testing Google Translate, ChatGPT, and the OpenAI TTS API. Eventually[^5], I found that the OpenAI TTS API meets my needs in terms of natural pronunciation and convenience, allowing me to generate the speech materials I want anytime, anywhere.
+
+
+[^1]: 发音：发音不准
+[^2]: 语法：not 和 no 有什么区别
+[^3]: 语法：for 和 of 有什么区别 
+[^4]: 发音：一直以来都读错
+[^5]: 发音不准
+
+
