@@ -3,7 +3,7 @@ from openai import OpenAI
 # get local file cotent, for example: 2024/02-27
 
 
-path = "2024/03-07/"
+path = "2024/03-08/"
 material_file = "english.md"
 material_path = path + material_file
 material_content = ""
