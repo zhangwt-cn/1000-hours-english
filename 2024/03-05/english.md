@@ -15,3 +15,5 @@ Over the past few[^1] days of practicing English, the daily[^2] routine[^3] has 
 [^13]: /rɪˈmeɪ.nɪŋ/
 [^14]: /ˈmem.ə.raɪz/
 
+
+ps: 不够流畅 2024-03-10
