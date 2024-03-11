@@ -22,3 +22,7 @@ So when you build, in this architectural game,
 Remember, no single style, always claims the fame.
 Adapt and combine, as the context dictates,
 For in versatility, true mastery awaits.
+
+
+
+ps: 发音不准单词太多
