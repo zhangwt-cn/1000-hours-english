@@ -1,5 +1,5 @@
 # Define directory name
-dir_name="2024/03-12"
+dir_name="2024/03-13"
 
 # Create directory
 mkdir -p $dir_name
